@@ -1,1 +1,1 @@
-
+This project is a Library Management System developed using Laravel, PHP, MySQL, and XAMPP. It follows the Model-View-Controller (MVC) architecture and utilizes Blade templates for dynamic and user-friendly interface rendering. The system provides full CRUD (Create, Read, Update, Delete) functionality for managing books, borrowers, and transactions within the library. The project also emphasizes proper database design and efficient data management, ensuring a smooth and organized operation for library administrators and users.
