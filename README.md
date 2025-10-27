@@ -86,7 +86,9 @@ Organized and scalable code structure following Laravel best practices.
 --------------------------------------------
 
 🚀 Usage
-public/codesnap.png
+
+![Book Page Function](public/codesnap.png)
+
 
 
 
