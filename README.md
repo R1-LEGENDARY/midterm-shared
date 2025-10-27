@@ -91,13 +91,13 @@ Organized and scalable code structure following Laravel best practices.
 ![Book Page Function](https://github.com/R1-LEGENDARY/midterm-shared/blob/main/library-system/library-system/public/codesnap.png)
 
      This page allows the admin to create new sections or categories in the library for better organization.
-[Add New Section](https://github.com/R1-LEGENDARY/midterm-shared/blob/main/library-system/library-system/public/img1.png)
+![Add New Section](https://github.com/R1-LEGENDARY/midterm-shared/blob/main/library-system/library-system/public/img1.png)
 
      Admins can register new borrowers, storing their details to track borrowing history.
-[Add Borrowers](https://github.com/R1-LEGENDARY/midterm-shared/blob/main/library-system/library-system/public/img2.png)
+![Add Borrowers](https://github.com/R1-LEGENDARY/midterm-shared/blob/main/library-system/library-system/public/img2.png)
 
      Admins can add new books with details like title, author, category, and availability.
-[Add Books](https://github.com/R1-LEGENDARY/midterm-shared/blob/main/library-system/library-system/public/img3.png)
+![Add Books](https://github.com/R1-LEGENDARY/midterm-shared/blob/main/library-system/library-system/public/img3.png)
 
 
 ---
