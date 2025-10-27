@@ -102,12 +102,8 @@ Organized and scalable code structure following Laravel best practices.
 
 ---
 
-✅ **This README.md now includes:**
-1. Project title, description, objectives, features  
-2. Installation instructions (step-by-step for Laravel & XAMPP)  
-3. Usage section with your **three screenshots** and explanation  
-4. Example **code snippets** for CRUD operations  
-5. Contributors and license sections  
+This project is licensed for educational purposes only.
+© 2025 Your Name / Institution — All Rights Reserved.
 
 ---
 
