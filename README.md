@@ -1,15 +1,15 @@
-🧩 Midterm Examination Project
+## 🧩 Midterm Examination Project
 📘 Project Title
 Library Management System
 
 -------------------------------------
 
-📝 Description / Overview
+## 📝 Description / Overview
 This project is a Library Management System developed using Laravel, PHP, MySQL, and XAMPP. It follows the Model-View-Controller (MVC) architecture and utilizes Blade templates for dynamic and user-friendly interface rendering. The system provides full CRUD (Create, Read, Update, Delete) functionality for managing books, borrowers, and transactions within the library. The project also emphasizes proper database design and efficient data management, ensuring a smooth and organized operation for library administrators and users.
 
 -------------------------------------
 
-🎯 Objectives
+## 🎯 Objectives
 To apply the concepts of Git and GitHub in project collaboration.  
 To demonstrate knowledge of version control workflows.  
 To develop and document a functional system or program.  
@@ -17,7 +17,7 @@ To promote teamwork through shared repository management.
 
 -------------------------------------
 
-⚙️ Features / Functionality
+## ⚙️ Features / Functionality
 User authentication and role-based access (admin and user).
 Book management with full CRUD operations (add, edit, delete, and view books).
 Borrower and transaction management for tracking issued and returned books.
@@ -29,7 +29,7 @@ Organized and scalable code structure following Laravel best practices.
 
 --------------------------------------
 
-🧩 Installation Instructions
+## 🧩 Installation Instructions
 1. Install XAMPP
      Download and install XAMPP from https://www.apachefriends.org
      Start the Apache and MySQL modules in the XAMPP Control Panel.
@@ -85,9 +85,11 @@ Organized and scalable code structure following Laravel best practices.
 
 --------------------------------------------
 
-🚀 Usage
+## 🚀 Usage
 
 ![Book Page Function](https://github.com/R1-LEGENDARY/midterm-shared/blob/main/library-system/library-system/public/codesnap.png)
+
+
 
 
 
