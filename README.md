@@ -103,7 +103,7 @@ Organized and scalable code structure following Laravel best practices.
 ---
 
 This project is licensed for educational purposes only.
-© 2025 Your Name / Institution — All Rights Reserved.
+© 2025 John Carlo C. Songcuan / DMMMSU-MLUC — All Rights Reserved.
 
 ---
 
