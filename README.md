@@ -2,12 +2,12 @@
 📘 Project Title
 Library Management System
 
--------------------------------------
+---
 
 ## 📝 Description / Overview
 This project is a Library Management System developed using Laravel, PHP, MySQL, and XAMPP. It follows the Model-View-Controller (MVC) architecture and utilizes Blade templates for dynamic and user-friendly interface rendering. The system provides full CRUD (Create, Read, Update, Delete) functionality for managing books, borrowers, and transactions within the library. The project also emphasizes proper database design and efficient data management, ensuring a smooth and organized operation for library administrators and users.
 
--------------------------------------
+---
 
 ## 🎯 Objectives
 To apply the concepts of Git and GitHub in project collaboration.  
@@ -15,7 +15,7 @@ To demonstrate knowledge of version control workflows.
 To develop and document a functional system or program.  
 To promote teamwork through shared repository management.
 
--------------------------------------
+---
 
 ## ⚙️ Features / Functionality
 User authentication and role-based access (admin and user).
@@ -27,7 +27,7 @@ Dynamic and responsive interface using Blade views for clean UI rendering.
 Real-time validation and error handling using Laravel’s built-in validation system.
 Organized and scalable code structure following Laravel best practices.
 
---------------------------------------
+---
 
 ## 🧩 Installation Instructions
 1. Install XAMPP
@@ -83,12 +83,33 @@ Organized and scalable code structure following Laravel best practices.
    Then open your browser and go to:
 👉 http://localhost:8000
 
---------------------------------------------
+---
 
 ## 🚀 Usage
+     The system allows administrators and users to manage books and borrowers efficiently.
 
 ![Book Page Function](https://github.com/R1-LEGENDARY/midterm-shared/blob/main/library-system/library-system/public/codesnap.png)
 
+     This page allows the admin to create new sections or categories in the library for better organization.
+[Add New Section](https://github.com/R1-LEGENDARY/midterm-shared/blob/main/library-system/library-system/public/img1.png)
+
+     Admins can register new borrowers, storing their details to track borrowing history.
+[Add Borrowers](https://github.com/R1-LEGENDARY/midterm-shared/blob/main/library-system/library-system/public/img2.png)
+
+     Admins can add new books with details like title, author, category, and availability.
+[Add Books](https://github.com/R1-LEGENDARY/midterm-shared/blob/main/library-system/library-system/public/img3.png)
+
+
+---
+
+✅ **This README.md now includes:**
+1. Project title, description, objectives, features  
+2. Installation instructions (step-by-step for Laravel & XAMPP)  
+3. Usage section with your **three screenshots** and explanation  
+4. Example **code snippets** for CRUD operations  
+5. Contributors and license sections  
+
+---
 
 
 
