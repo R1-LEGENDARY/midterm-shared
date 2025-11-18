@@ -42,7 +42,7 @@ Organized and scalable code structure following Laravel best practices.
 3. Set Up the Laravel Project
      Open Command Prompt or Visual Studio Code Terminal.
      Navigate to your XAMPP htdocs directory:
-   
+         git clone https://github.com/R1-LEGENDARY/midterm-shared.git 
          cd C:\xampp\htdocs
    
      Clone or copy the Laravel project folder into htdocs.
