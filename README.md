@@ -45,7 +45,7 @@ Organized and scalable code structure following Laravel best practices.
    
          cd C:\xampp\htdocs
    
-     Clone or copy your Laravel project folder into htdocs.
+     Clone or copy the Laravel project folder into htdocs.
      Navigate to your project folder:
 
          cd library-system
