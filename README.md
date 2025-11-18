@@ -42,6 +42,7 @@ Organized and scalable code structure following Laravel best practices.
 3. Set Up the Laravel Project
      Open Command Prompt or Visual Studio Code Terminal.
      Navigate to your XAMPP htdocs directory:
+   
          git clone https://github.com/R1-LEGENDARY/midterm-shared.git 
          cd C:\xampp\htdocs
    
@@ -54,7 +55,7 @@ Organized and scalable code structure following Laravel best practices.
 
        composer install
 
-4. Configure the Environment File
+5. Configure the Environment File
      Duplicate the .env.example file and rename it to .env.
      Open .env and update your database settings:
 
@@ -65,18 +66,18 @@ Organized and scalable code structure following Laravel best practices.
        DB_USERNAME=root
        DB_PASSWORD=
 
-5. Generate the Application Key
+6. Generate the Application Key
 
        php artisan key:generate
 
-6. Set Up the Database
+7. Set Up the Database
     Open phpMyAdmin (via http://localhost/phpmyadmin).
     Create a new database named library_db.
     Run migrations and seeders to set up tables:
 
        php artisan migrate --seed
 
-7. Run the Laravel Development Server
+8. Run the Laravel Development Server
 
        php artisan serve
    
